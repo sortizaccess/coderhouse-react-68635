@@ -3,7 +3,7 @@ import ItemList from './ItemList'
 
 const ItemListContainer = () => {
 
-  const items = [
+  const products = [
     {
       id: 1,
       image: '',
@@ -33,7 +33,7 @@ const ItemListContainer = () => {
 
   return (
     <div>
-      <ItemList items={items} />
+      <ItemList items={products} />
     </div>
   )
 };
