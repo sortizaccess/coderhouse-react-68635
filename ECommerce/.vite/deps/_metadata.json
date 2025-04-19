@@ -1,0 +1,73 @@
+{
+  "hash": "9d402731",
+  "configHash": "1835f8ff",
+  "lockfileHash": "d936d4b8",
+  "browserHash": "f5fddc96",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "d1fdb818",
+      "needsInterop": true
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "c5933b20",
+      "needsInterop": true
+    },
+    "react-bootstrap": {
+      "src": "../../node_modules/react-bootstrap/esm/index.js",
+      "file": "react-bootstrap.js",
+      "fileHash": "6004d4f7",
+      "needsInterop": false
+    },
+    "react-bootstrap/Badge": {
+      "src": "../../node_modules/react-bootstrap/esm/Badge.js",
+      "file": "react-bootstrap_Badge.js",
+      "fileHash": "4c4ef17f",
+      "needsInterop": false
+    },
+    "react-bootstrap/Button": {
+      "src": "../../node_modules/react-bootstrap/esm/Button.js",
+      "file": "react-bootstrap_Button.js",
+      "fileHash": "54e2eaa3",
+      "needsInterop": false
+    },
+    "@fortawesome/react-fontawesome": {
+      "src": "../../node_modules/@fortawesome/react-fontawesome/index.es.js",
+      "file": "@fortawesome_react-fontawesome.js",
+      "fileHash": "f28d4051",
+      "needsInterop": false
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "093f7d96",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "chunk-OMDH5JFI": {
+      "file": "chunk-OMDH5JFI.js"
+    },
+    "chunk-L26OYDCW": {
+      "file": "chunk-L26OYDCW.js"
+    },
+    "chunk-QIO7Q3JO": {
+      "file": "chunk-QIO7Q3JO.js"
+    },
+    "chunk-PNDONJFS": {
+      "file": "chunk-PNDONJFS.js"
+    },
+    "chunk-XQIPT53K": {
+      "file": "chunk-XQIPT53K.js"
+    },
+    "chunk-KS2M7ZJI": {
+      "file": "chunk-KS2M7ZJI.js"
+    },
+    "chunk-5WRI5ZAA": {
+      "file": "chunk-5WRI5ZAA.js"
+    }
+  }
+}

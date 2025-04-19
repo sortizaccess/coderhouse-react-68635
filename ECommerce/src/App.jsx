@@ -6,7 +6,7 @@ function App() {
   return (
     <>
       <Header />
-      <ItemListContainer greeting="Greetings!" style={{ color: "red", margin: "10px" }} />
+      <ItemListContainer />
     </>
   )
 }
