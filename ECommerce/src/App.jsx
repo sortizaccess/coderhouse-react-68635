@@ -1,5 +1,5 @@
 import { useState } from 'react'
-import { Header, ItemListContainer } from "./components";
+import { Header, Footer, ItemListContainer } from "./components";
 import './App.css'
 
 function App() {
@@ -7,6 +7,7 @@ function App() {
     <>
       <Header />
       <ItemListContainer />
+      <Footer />
     </>
   )
 }

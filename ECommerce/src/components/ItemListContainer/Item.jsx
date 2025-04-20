@@ -18,11 +18,11 @@ const Item = ({ item }) => {
   }
 
   return (
-    <div className="pt-5">
+    <div>
       <Card className="shadow-sm hover-shadow-lg transition-all" style={{ minHeight: '320px' }}>
         <Card.Img 
           variant="top" 
-          style={{ height: '140px', objectFit: 'cover' }} 
+          style={{ height: '180px', objectFit: 'cover' }} 
           src={item.image || DefaultImage}
         />
 
